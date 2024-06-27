@@ -13,11 +13,11 @@ buildscript {
 allprojects {
 
     ext {
-        appName = 'Shattered Pixel Dungeon'
-        appPackageName = 'com.shatteredpixel.shatteredpixeldungeon'
+        appName = 'Re OvergrownPD'
+        appPackageName = 'com.reovergrownpixel.overgrownpixeldungeon'
 
         appVersionCode = 782
-        appVersionName = '2.4.2'
+        appVersionName = '0.0.4'
 
         appJavaCompatibility = JavaVersion.VERSION_1_8
 
@@ -27,7 +27,7 @@ allprojects {
 
         gdxVersion = '1.12.1'
         gdxControllersVersion = '2.2.4-SNAPSHOT'
-        robovmVersion = '2.3.21'
+        //robovmVersion = '2.3.21'
     }
     version = appVersionName
 
