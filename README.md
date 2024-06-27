@@ -1,3 +1,7 @@
+![image](https://github.com/Not-Name-Dev-Team/Re-OGPD/assets/70191651/921ef258-bbc7-4f63-a6c9-46a8bbdcfbf4)
+
+![banner](https://socialify.git.ci/Not-Name-Dev-Team/Re-OGPD/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Floating%20Cogs&pulls=1&stargazers=1&theme=Dark)
+
 # Shattered Pixel Dungeon
 
 [Shattered Pixel Dungeon](https://shatteredpixel.com/shatteredpd/) is an open-source traditional roguelike dungeon crawler with randomized levels and enemies, and hundreds of items to collect and use. It's based on the [source code of Pixel Dungeon](https://github.com/00-Evan/pixel-dungeon-gradle), by [Watabou](https://www.watabou.ru).
